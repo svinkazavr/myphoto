@@ -1,5 +1,0 @@
-AddHandler fcgid-script .php .phtml .html .htm
-FCGIWrapper /var/www/php-bin-php53/u0998276/php .php
-FCGIWrapper /var/www/php-bin-php53/u0998276/php .phtml
-FCGIWrapper /var/www/php-bin-php53/u0998276/php .html
-FCGIWrapper /var/www/php-bin-php53/u0998276/php .htm
